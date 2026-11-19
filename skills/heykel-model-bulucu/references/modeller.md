@@ -1,0 +1,184 @@
+# Heykel.org modelleri (1. bölüm)
+
+Her satırda: model adı, kısa açıklama, Türkçe sayfa ve İngilizce sayfa. Bütün modeller sipariş üzerine el işçiliğiyle üretilir.
+
+- Gazi Osman Paşa Büstü: fiberglas, askeri kıyafet ve nişan detaylı büst, 1 ayda el işçiliğiyle yapıldı. TR: https://www.heykel.org/gazi-osman-pasa-bustu/ | EN: https://www.heykel.org/en/gazi-osman-pasha-bust/
+- Leylek Heykeli: Yaren leylek, fiberglas 1 metre ayakta kuş figürü, antik bronz patina, bahçe ve peyzaj için. TR: https://www.heykel.org/leylek-heykeli/ | EN: https://www.heykel.org/en/stork-statue/
+- Ayakta Boğa Anıt Figürü: fiberglas, siyah bronz görünümlü, meydan, park, bahçe ve tesis girişleri için. TR: https://www.heykel.org/ayakta-boga-anit-figuru/ | EN: https://www.heykel.org/en/standing-bull-monument-figure/
+- Dekoratif Taçlı Boğa Kafası: fiberglas duvar dekoru, restoran, kafe, otel ve ev için, ebat ve renk seçenekli. TR: https://www.heykel.org/dekoratif-tacli-boga-kafasi/ | EN: https://www.heykel.org/en/decorative-crowned-bull-head-statue/
+- Hediyelik Küçük Kartal Heykeli: fiberglas, bronz görünümlü, ödüllü tasarım, 440 cm'ye kadar özel ölçü. TR: https://www.heykel.org/hediyelik-kucuk-kartal-heykeli/ | EN: https://www.heykel.org/en/small-gift-eagle-statue/
+- Aslan Maskesi: terracotta tonlu fiberglas duvar heykeli, 100x70x30 cm. TR: https://www.heykel.org/aslan-maskesi/ | EN: https://www.heykel.org/en/lion-mask/
+- Askeri Kıyafetli Üniformalı Büst: kalpaklı ve madalyalı Atatürk büstü, kurumlar ve Atatürk köşeleri için. TR: https://www.heykel.org/askeri-kiyafetli-uniformali-bust/ | EN: https://www.heykel.org/en/military-uniformed-bust/
+- Kazım Karabekir Heykeli: fiberglas, yüksek benzerlikte, kurumsal alanlar için komutan heykeli. TR: https://www.heykel.org/kazim-karabekir-heykeli/ | EN: https://www.heykel.org/en/kazim-karabekir-statue/
+- Kağızmanlı Ali Rıza Bey Heykeli: fiberglas, yüksek benzerlikte, kurumsal alanlar için. TR: https://www.heykel.org/kagizmanli-ali-riza-bey-heykeli/ | EN: https://www.heykel.org/en/turkish-ali-riza-bey-statue/
+- Büyük Meydan Atatürk Heykeli: meydanlar için tam boy fiberglas heykel, dış mekâna dayanıklı. TR: https://www.heykel.org/buyuk-meydan-ataturk-heykeli/ | EN: https://www.heykel.org/en/big-square-atatrk-statue/
+- Osmanlı Heykeli: askeri büst, miğfer ve zırh detaylı, fiberglas veya bronz kaplama seçenekli. TR: https://www.heykel.org/osmanli-heykeli/ | EN: https://www.heykel.org/en/ottoman-sculpture/
+- Sultan Alparslan Heykeli: Malazgirt ruhunu yaşatan, bronz kaplama, özelleştirilebilir boyut, dış mekâna uygun. TR: https://www.heykel.org/sultan-alparslan-heykeli/ | EN: https://www.heykel.org/en/sultan-alparslan-statue/
+- Selçuklu Heykeli: sivri miğfer ve zırh detaylı anıtsal büst, müze, kültür merkezi ve eğitim kurumları için. TR: https://www.heykel.org/selcuklu-heykeli/ | EN: https://www.heykel.org/en/seljuk-sculpture/
+- Yaşar Kemal Heykeli: büst, kil modelaj aşaması, kasket detaylı. TR: https://www.heykel.org/yasar-kemal-heykeli/ | EN: https://www.heykel.org/en/yasar-kemal-sculpture/
+- Anne Heykeli: kişiye özel, fotoğraftan gerçekçi tam boy portre heykeli, bronz ve fiberglas seçenekli. TR: https://www.heykel.org/anne-heykeli/ | EN: https://www.heykel.org/en/mother-statue/
+- Dana Heykeli: dana ve yavru boğa, bronz kaplama, iç ve dış mekâna uygun. TR: https://www.heykel.org/dana-heykeli/ | EN: https://www.heykel.org/en/calf-statue/
+- Öğrenci Eğitim Heykeli: kitap okuyan öğrenci, el yapımı kil, okul ve eğitim kurumları için. TR: https://www.heykel.org/ogrenci-egitim-heykeli/ | EN: https://www.heykel.org/en/student-education-sculpture/
+- Haydar Aliyev Büst Heykeli: anıtsal büst, özel üretim. TR: https://www.heykel.org/haydar-aliyev-bust-heykeli/ | EN: https://www.heykel.org/en/haydar-aliyev-bust-sculpture/
+- Mustafa Kemal Paşa Heykeli: zafer anını anlatan 2.5 metre fiberglas heykel. TR: https://www.heykel.org/mustafa-kemal-pasa-heykeli/ | EN: https://www.heykel.org/en/mustafa-kemal-pasha-statue/
+- Aslan Figürü: figüratif aslan, otel, villa ve kurumsal mekânlar için, özel boyutlu. TR: https://www.heykel.org/aslan-figuru/ | EN: https://www.heykel.org/en/lion-figure/
+- Tarihi Türk Liderler Büst Heykelleri: bronz büstler (Teoman, Panu, Balamir, Aksuvar, Bumin Kagan, Bayan Han ve diğerleri). TR: https://www.heykel.org/tarihi-turk-liderler-bust-heykel/ | EN: https://www.heykel.org/en/historical-turkish-leaders-bust-statue/
+- Boğa Başı Dekoratif Kapı Heykeli: sürgülü otomatik kapıya entegre, kapı açılınca ikiye ayrılan boğa başı. TR: https://www.heykel.org/boga-basi-dekoratif-kapi-heykeli/ | EN: https://www.heykel.org/en/bull-head-decorative-door-sculpture/
+- Cumhuriyet Rölyef Heykeli: Cumhuriyet'in ilanını anlatan, bronz patinalı anıtsal rölyef. TR: https://www.heykel.org/cumhuriyet-rolyef-heykeli/ | EN: https://www.heykel.org/en/republic-relief-sculpture/
+- Kurtuluş Savaşı Rölyef Heykeli: bronz anıt eserler, Belediye, okul ve kamu alanları için. TR: https://www.heykel.org/kurtulus-savasi-rolyef-heykeli/ | EN: https://www.heykel.org/en/war-of-independence-relief-sculpture/
+- Aşık Ozan Büst Heykeli: 4 halk şairinin fiberglas ve polyester büstleri. TR: https://www.heykel.org/asik-ozan-bust-heykeli/ | EN: https://www.heykel.org/en/bust-sculptures-of-folk-poets/
+- Baba Oğul Heykeli: fotoğraftan modellenen, kişiye özel bronz patinalı fiberglas büst. TR: https://www.heykel.org/baba-ogul-heykeli/ | EN: https://www.heykel.org/en/father-and-son-statue/
+- Mustafa Kemal Büstü: bronz patinalı, uzun kaideli, okul, belediye ve resmi kurumlar için. TR: https://www.heykel.org/mustafa-kemal-bustu/ | EN: https://www.heykel.org/en/mustafa-kemal-bust/
+- Süleyman Seba Heykeli: bronz patinalı büst, spor kulüpleri, stadyum ve kurumlar için. TR: https://www.heykel.org/suleyman-seba-heykeli/ | EN: https://www.heykel.org/en/suleyman-seba-sculpture/
+- Türkan Saylan Heykeli: kız öğrenci figürüyle eğitimin gücünü simgeleyen anıt heykel, müze ve sanat projeleri için. TR: https://www.heykel.org/turkan-saylan-heykeli/ | EN: https://www.heykel.org/en/turkan-saylan-statue/
+- Türkiye Haritası Bronz Rölyef: bronz kabartma, belediye ve kurumsal mekânlar için. TR: https://www.heykel.org/turkiye-haritasi-bronz-rolyef/ | EN: https://www.heykel.org/en/turkey-map-bronze-relief/
+- Aşık Veysel Heykeli: el yapımı kil büst, detaylı yüz işçiliği. TR: https://www.heykel.org/asik-veysel-heykeli/ | EN: https://www.heykel.org/en/asik-veysel-bust-sculpture/
+- Kişiye Özel Büst: fotoğraftan baştan sona el modellemeli kil büst heykel. TR: https://www.heykel.org/kisiye-ozel-bust/ | EN: https://www.heykel.org/en/custom-bust-sculpture/
+- Necip Fazıl Kısakürek Heykeli: el yapımı kil büst, kurumsal ve kültürel mekânlar için. TR: https://www.heykel.org/necip-fazil-kisakurek-heykeli/ | EN: https://www.heykel.org/en/necip-fazil-kisakurek-sculpture/
+- Türkiye Rölyefi: Türkiye haritası şeklinde kil rölyef, Türk askeri tarihini yansıtır. TR: https://www.heykel.org/turkiye-rolyefi/ | EN: https://www.heykel.org/en/turkeys-relief/
+- Geometrik Kurt Heykeli: Türk mitolojisinin kurt sembolü, low-poly estetik, iç ve dış mekân. TR: https://www.heykel.org/geometrik-kurt-heykeli/ | EN: https://www.heykel.org/en/geometric-wolf-sculpture/
+- Cengiz Aytmatov Heykeli: Kırgız edebiyatının büyük ismine adanmış anıt heykel, sipariş üzerine. TR: https://www.heykel.org/cengiz-aytmatov-heykeli/ | EN: https://www.heykel.org/en/cengiz-aitmatov-statue/
+- Atatürk Maskı: fiberglas malzeme, bronz patina kaplamalı. TR: https://www.heykel.org/ataturk-maski/ | EN: https://www.heykel.org/en/ataturk-mask/
+- Fidel Castro Heykeli: büst, fiberglas, bronz patina, askeri üniforma detaylı. TR: https://www.heykel.org/fidel-castro-heykeli/ | EN: https://www.heykel.org/en/fidel-castro-statue/
+- Che Guevara Büst Heykeli: fiberglas, puro ve yıldızlı bere detaylı, bronz ve siyah patina seçenekli. TR: https://www.heykel.org/che-guevara-bust-heykeli/ | EN: https://www.heykel.org/en/che-guevara-bust-and-sculpture/
+- Bülent Ecevit ve Rahşan Ecevit Heykeli: oturur pozisyonda çift figürlü fiberglas heykel. TR: https://www.heykel.org/bulent-ecevit-ve-rahsan-ecevit-heykeli/ | EN: https://www.heykel.org/en/bulent-ecevit-and-rahsan-ecevit-sculpture/
+- Atatürk Denizcilik Kitap Anıt Heykeli: turkuaz bronz patinalı, açık kitap formunda, çapa, dümen ve Atatürk rölyefli. TR: https://www.heykel.org/ataturk-denizcilik-kitap-anit-heykeli/ | EN: https://www.heykel.org/en/ataturk-maritime-book-monument-sculpture/
+- Çizgi Film Karakteri Heykeli: renkli fiberglas figürler, kafe, eğlence parkı ve çocuk alanları için. TR: https://www.heykel.org/cizgi-film-karakteri-heykeli/ | EN: https://www.heykel.org/en/cartoon-character-sculpture/
+- Kitap Okuyan Çocuk Heykeli: bronz patina kaplamalı, kafe, okul ve kütüphane gibi mekânlar için. TR: https://www.heykel.org/kitap-okuyan-cocuk-heykeli/ | EN: https://www.heykel.org/en/child-reading-a-book-sculpture/
+- Metal Heykel: alev ve küre formundan ilham alan paslanmaz çelik, iç ve dış mekân. TR: https://www.heykel.org/metal-heykel/ | EN: https://www.heykel.org/en/metal-sculpture/
+- Bozkurt Heykeli: bronz kaplama uluyan kurt figürü, küçük ve büyük boy, bahçe ve dış mekân. TR: https://www.heykel.org/bozkurt-heykeli/ | EN: https://www.heykel.org/en/grey-wolf-sculpture/
+- Kişiye Özel Heykel: bronz kaplama tam boy şahıs heykeli, fiyat ve üretim bilgisi. TR: https://www.heykel.org/kisiye-ozel-heykel/ | EN: https://www.heykel.org/en/custom-sculpture/
+- Türk Büst Heykelleri: Atatürk'ten Osman Gazi'ye 17 fiberglas büst. TR: https://www.heykel.org/turk-bust-heykelleri/ | EN: https://www.heykel.org/en/turkish-bust-statues/
+- Avcı Mahmut Heykeli: Milli Mücadele kahramanı anısına bronz anıt heykel. TR: https://www.heykel.org/avci-mahmut-heykeli/ | EN: https://www.heykel.org/en/avci-mahmut-statue/
+- At Heykeli: şaha kalkmış bronz at, villa bahçesi, otel ve meydan için özel üretim. TR: https://www.heykel.org/at-heykeli/ | EN: https://www.heykel.org/en/horse-statue/
+- Boydan Atatürk Heykeli: bronz kaplama, fiberglas ve polyester malzeme seçenekli anıtsal heykel. TR: https://www.heykel.org/boydan-ataturk-heykeli/ | EN: https://www.heykel.org/en/full-body-statue-of-ataturk/
+- Muhibe Hatun Heykeli: Kars'ın yiğit kadınını anlatan, fiberglas anıtsal eser. TR: https://www.heykel.org/muhibe-hatun-heykeli/ | EN: https://www.heykel.org/en/lady-muhibe-sculpture/
+- Futbolcu Heykeli: anıt heykelin el yapımı kil yapım aşaması. TR: https://www.heykel.org/futbolcu-heykeli/ | EN: https://www.heykel.org/en/footballer-statue/
+- Soyut Heykel: aile sevgisini yansıtan anne, baba ve bebek figürleri, ev ve ofis dekorasyonu için. TR: https://www.heykel.org/soyut-heykel/ | EN: https://www.heykel.org/en/abstract-sculpture/
+- Hacı Bektaş-ı Veli Heykeli: aslan ve ceylanla hoşgörüyü simgeleyen fiberglas anıt, meydan ve kültür merkezleri için. TR: https://www.heykel.org/haci-bektasi-veli-heykeli/ | EN: https://www.heykel.org/en/haci-bektasi-veli-statue/
+- Aslan Başlı Heykel: mitolojik temalı, aslan başlı insan vücutlu fiberglas heykel, dış mekâna dayanıklı. TR: https://www.heykel.org/aslan-basli-heykel/ | EN: https://www.heykel.org/en/lion-head-statue/
+- Komando Heykeli: bronz ve fiberglas seçenekli anıt heykel, askeri tesis, şehit anıtı ve belediye meydanı için. TR: https://www.heykel.org/komando-heykeli/ | EN: https://www.heykel.org/en/commando-statue/
+- Keçi Heykeli: bronz ibex keçi, iri boynuzlu üç figürlü heykel grubu, mimari proje ve park için. TR: https://www.heykel.org/keci-heykeli/ | EN: https://www.heykel.org/en/goat-statue/
+- Bayrak Tutan Asker Heykeli: ay yıldızlı sancaklı Türk askeri anıt heykeli, bronz kaplama ve fiberglas. TR: https://www.heykel.org/bayrak-tutan-asker-heykeli/ | EN: https://www.heykel.org/en/flag-bearing-soldier-sculpture/
+- Rölyef Duvar Heykel: Elazığ Belediyesi'nin sipariş ettiği 7 parçalık rölyef serisinden duvar heykeli. TR: https://www.heykel.org/rolyef-duvar-heykel/ | EN: https://www.heykel.org/en/relief-wall-sculpture/
+- Atatürk Büstü: okullar ve resmi kurumlar için özel tasarım büst. TR: https://www.heykel.org/ataturk-bustu/ | EN: https://www.heykel.org/en/bust-of-ataturk/
+- Boğa Heykeli: el işçiliğiyle üretilen, dış mekâna uygun, bronz patina kaplamalı. TR: https://www.heykel.org/boga-heykeli/ | EN: https://www.heykel.org/en/bull-sculpture/
+- Atatürk Rölyefi: Bandırma Vapuru ile Samsun'a çıkışı anlatan, dış mekâna dayanıklı kabartma. TR: https://www.heykel.org/ataturk-rolyefi/ | EN: https://www.heykel.org/en/ataturk-relief-sculpture/
+- Sparta Heykeli: antik Yunan Sparta savaşçısı, fiberglas, bronz patina, müze ve otel için. TR: https://www.heykel.org/sparta-heykeli/ | EN: https://www.heykel.org/en/sparta-sculpture/
+- Savaş Anıt Heykeli: Kars Milli Mücadele Anıtı, 7 figürlü, fiberglas, bronz patina. TR: https://www.heykel.org/savas-anit-heykeli/ | EN: https://www.heykel.org/en/war-memorial-sculpture/
+- Çift Başlı Kartal Heykeli: 240 cm yükseklikte fiberglas, Selçuklu sembolü. TR: https://www.heykel.org/cift-basli-kartal-heykeli/ | EN: https://www.heykel.org/en/double-headed-eagle-sculpture/
+- Atlı Atatürk Anıt Heykeli: şahlanan atlı, fiberglas üzerine bronz patina, dış mekâna uygun. TR: https://www.heykel.org/atli-ataturk-anit-heykeli/ | EN: https://www.heykel.org/en/equestrian-ataturk-monument/
+- Atlas Heykeli: gökyüzünü taşıyan Yunan mitolojisi titanı. TR: https://www.heykel.org/atlas-heykeli/ | EN: https://www.heykel.org/en/sculpture-of-atlas/
+- Aşık Murat Çobanoğlu Heykeli: Kars doğumlu halk ozanı, gerçekçi portre detaylı. TR: https://www.heykel.org/asik-murat-cobanoglu-heykeli/ | EN: https://www.heykel.org/en/sculpture-of-the-bard-murat-cobanoglu/
+
+
+## 2. bölüm: diğer modeller
+
+Bu bölümdeki her modelin sayfa adresi şudur: https://www.heykel.org/heykel/ARKA-AD/ (aşağıdaki listede parantez içindeki yazı arka addır). İngilizce kullanıcıya EN urlyi ver.
+
+- Park Heykeli, Temel Reis (park-heykeli): fiberglas park figürü, taş kaide üzerine montajlı | EN: https://www.heykel.org/en/statue/park-statue/
+- Sevimli Heykeller (sevimli-heykeller): hediyelik ve dekoratif animasyon karakteri heykelleri | EN: https://www.heykel.org/en/statue/cute-statues/
+- Alüminyum Rölyef, Türkiye Haritalı Atatürk Panosu (aluminyum-rolyef-turkiye-haritali-ataturk-panosu): hafif alüminyum duvar rölyefi | EN: https://www.heykel.org/en/statue/aluminum-relief-ataturk-wall-panel-with-map-of-turkey/
+- Kamusal Heykel ve Atatürk Anıtı (kamusal-heykel-ve-ataturk-aniti-yapimi): şehir meydanı için granit kaideli atlı Atatürk heykeli | EN: https://www.heykel.org/en/statue/public-sculpture-ataturk-monument-production/
+- Ev Dekorasyon Maket Heykel (ev-dekorasyon-heykelleri-ve-ozel-siparis-maket-heykel): el yapımı taş köy evi maketi | EN: https://www.heykel.org/en/statue/home-decor-sculptures-custom-miniature-house-sculpture/
+- Gerçek İnsan Heykeli (gercek-insan-heykeli): tam boy insan heykelleri | EN: https://www.heykel.org/en/statue/real-human-statue/
+- Alçı Heykel (alci-heykel): alçı heykel yapımı, kalıp ve tamir | EN: https://www.heykel.org/en/statue/plaster-sculpture/
+- Spor Heykeli (spor-heykeli): spor temalı dinamik heykeller | EN: https://www.heykel.org/en/statue/sports-sculpture/
+- Ördek Heykeli (ordek-heykeli): bahçe ve iç mekân için ördek figürü | EN: https://www.heykel.org/en/statue/duck-sculpture/
+- Altın Boğa Kafa Heykeli (altin-boga-kafa-heykeli): kasap cephesi için fiberglas boğa kafası | EN: https://www.heykel.org/en/statue/golden-bull-head-sculpture/
+- Anıtkabir Heykeli (anitkabir-heykeli): Anıtkabir yapısının heykeli | EN: https://www.heykel.org/en/statue/anitkabir-sculpture/
+- Budist Heykel (budist-heykel): geleneksel Budist heykel | EN: https://www.heykel.org/en/statue/buddhist-sculpture/
+- Şehit Heykeli (sehit-heykeli): Eren Bülbül bronz şehit anıt heykeli | EN: https://www.heykel.org/en/statue/martyr-statue/
+- Taş Heykel (tas-heykel): taş heykel, ayıcık heykeli | EN: https://www.heykel.org/en/statue/stone-statue/
+- Tay Heykeli (tay-heykeli): bronz görünümlü tay figürü | EN: https://www.heykel.org/en/statue/foal-statue/
+- Bahçe Peyzaj Heykel (bahce-peyzaj-heykel): dekoratif bahçe ve peyzaj heykelleri | EN: https://www.heykel.org/en/statue/garden-landscape-sculpture/
+- Boğa Duvar Süsü (boga-duvar-susu): boğa rölyef duvar dekoru | EN: https://www.heykel.org/en/statue/bull-wall-decor/
+- Ahmedi Hani Heykeli (ahmedi-hani-heykeli): rölyef, bronz patina | EN: https://www.heykel.org/en/statue/ahmedi-khani-sculpture/
+- Atatürk Portre Makam Rölyefi (ataturk-portre-makam-rolyefi): takım elbiseli Atatürk portresi makam rölyefi | EN: https://www.heykel.org/en/statue/ataturk-portrait-executive-relief/
+- Boğa Duvar Dekoru Rölyef (boga-duvar-dekoru-rolyef): kurumsal duvar dekoru | EN: https://www.heykel.org/en/statue/bull-wall-decor-relief/
+- Diyap Ağa ve Atatürk (diyap-aga-ataturk-heykeli): Kurtuluş Savaşı rölyef heykeli | EN: https://www.heykel.org/en/statue/diyap-agha-ataturk-sculpture/
+- Dans Heykeli (dans-heykeli): dans eden kadın ve erkek figürü | EN: https://www.heykel.org/en/statue/dance-sculpture/
+- Şehit Gazi Dernek Heykeli (sehit-gazi-dernek-heykeli): şehit ve gazi dernekleri için heykel | EN: https://www.heykel.org/en/statue/martyr-and-veteran-association-sculpture/
+- Köpek Büstü (kopek-bustu): kırmızı tasmalı tazı büstü, granit kaide, bronz patina | EN: https://www.heykel.org/en/statue/dog-bust/
+- Erkek Heykel Figürü (erkek-heykel-figuru): sanatsal erkek figürü | EN: https://www.heykel.org/en/statue/male-sculpture-figure/
+- Kadın Heykel Figürü (kadin-heykel-figuru): sanatsal kadın figürü | EN: https://www.heykel.org/en/statue/female-sculpture-figure/
+- Zeytin Heykeli (zeytin-heykeli): büyük zeytin heykeli | EN: https://www.heykel.org/en/statue/olive-sculpture/
+- Yılbaşı Noel Baba Heykeli (yilbasi-noel-baba-heykeli): fiberglas Noel Baba ve yılbaşı ağacı, istenen ebatta | EN: https://www.heykel.org/en/statue/christmas-santa-claus-statue/
+- Uçak Heykeli (ucak-heykeli): uçak temalı heykel | EN: https://www.heykel.org/en/statue/aircraft-statue/
+- İbni Sina Heykeli (ibni-sina-heykeli): tıp heykeli anıtı | EN: https://www.heykel.org/en/statue/avicenna-statue/
+- Şeftali Heykeli (seftali-heykeli): Bursa şeftali heykeli | EN: https://www.heykel.org/en/statue/peach-sculpture/
+- Nene Hatun Heykeli (nene-hatun-heykeli): Erzurum'lu kahraman, bebekli boydan heykel | EN: https://www.heykel.org/en/statue/nene-hatun-statue/
+- Muz Heykeli (muz-heykeli): meyve heykeli | EN: https://www.heykel.org/en/statue/banana-statue/
+- Nargile Heykeli (nargile-heykeli): özel sipariş nargile takımı | EN: https://www.heykel.org/en/statue/hookah-statue/
+- Nazar Boncuğu Heykeli (nazar-boncugu-heykeli): büyük dekoratif nazar boncuğu | EN: https://www.heykel.org/en/statue/evil-eye-statue/
+- Madenci Heykeli (madenci-heykeli): hediyelik veya anıtsal madenci heykeli | EN: https://www.heykel.org/en/statue/miner-statue/
+- Kurtuluş Heykeli (kurtulus-heykeli): işgalden kurtuluşu simgeleyen rölyef | EN: https://www.heykel.org/en/statue/liberty-statue/
+- Kitap Heykeli (kitap-heykeli): kitap figürlü heykel | EN: https://www.heykel.org/en/statue/book-sculpture/
+- Kılıç Heykeli (kilic-heykeli): hat yazılı bronz Zülfikar kılıç heykeli | EN: https://www.heykel.org/en/statue/sword-statue/
+- Kemençe Heykeli (kemence-heykeli): Karadeniz kemençesi heykeli | EN: https://www.heykel.org/en/statue/black-sea-fiddle-statue/
+- İskelet Heykeli (iskelet-heykeli): insan iskeleti heykeli | EN: https://www.heykel.org/en/statue/skeleton-sculpture/
+- Güvercin Heykeli (guvercin-heykeli): barış simgesi güvercin | EN: https://www.heykel.org/en/statue/pigeon-statue/
+- Bandırma Vapuru Gemi Heykeli (bandirma-vapuru-gemi-heykeli): gemi heykeli | EN: https://www.heykel.org/en/statue/bandirma-ferry-ship-sculpture/
+- Doğa Heykeli (doga-heykeli): duvara yansıyan doğa temalı çalışma | EN: https://www.heykel.org/en/statue/nature-statue/
+- Fındık Heykeli (findik-heykeli): Karadeniz fındığı heykeli | EN: https://www.heykel.org/en/statue/hazelnut-statue/
+- Çay Bardağı Heykeli (cay-bardagi-heykeli): Türk çay bardağı heykeli | EN: https://www.heykel.org/en/statue/tea-glass-sculpture/
+- Çatal Kaşık Heykeli (catal-kasik-heykeli): restoran girişi için çatal kaşık heykeli | EN: https://www.heykel.org/en/statue/fork-and-spoon-sculpture/
+- Barış Turna Kuşu Heykeli (baris-turna-kusu-heykeli): turna kuşu figürü | EN: https://www.heykel.org/en/statue/peace-crane-sculpture/
+- Bağlama Saz Heykeli (baglama-saz-heykeli): bağlama kültürel heykel | EN: https://www.heykel.org/en/statue/baglama-saz-sculpture/
+- Ayakkabı Heykeli (ayakkabi-heykeli): emeği ve ustalığı simgeleyen ayakkabı heykeli | EN: https://www.heykel.org/en/statue/shoe-sculpture/
+- 19 Mayıs Heykeli (19-mayis-heykeli): Atatürk'ün Samsun'a çıkışı rölyefi | EN: https://www.heykel.org/en/statue/may-19-sculpture/
+- 18 Mart Heykeli (18-mart-heykeli): Çanakkale Zaferi anma heykeli | EN: https://www.heykel.org/en/statue/18-march-sculpture/
+- 15 Temmuz Heykeli (15-temmuz-heykeli): 15 Temmuz şehitleri heykeli | EN: https://www.heykel.org/en/statue/july-15-sculpture/
+- Enstalasyon Heykel (enstalasyon-heykel): duvara yerleşen düşünen erkek figürü | EN: https://www.heykel.org/en/statue/installation-sculpture/
+- Elma Heykeli (elma-heykeli): Amasya'nın simgesi büyük elma | EN: https://www.heykel.org/en/statue/apple-statue/
+- Kedi Heykeli (kedi-heykeli): bahçe için bronz boyamalı kedi | EN: https://www.heykel.org/en/statue/cat-statue/
+- Dekoratif Duvar Heykeli (dekoratif-duvar-heykeli): büyük duvar dekoru heykeller | EN: https://www.heykel.org/en/statue/decorative-wall-sculpture/
+- At Başı Büst Heykeli (at-basi-bust-heykeli): kil at portresi | EN: https://www.heykel.org/en/statue/horse-head-bust-sculpture/
+- Koyun Heykeli (koyun-heykeli): kil koyun heykeli | EN: https://www.heykel.org/en/statue/sheep-sculpture/
+- Minyatür Heykel (minyatur-heykel): kişiye özel minyatür kartal ve biblo | EN: https://www.heykel.org/en/statue/miniature-sculpture/
+- Köpek Heykeli (kopek-heykeli): Sivas Kangal köpeği heykeli | EN: https://www.heykel.org/en/statue/dog-statue/
+- Mermer Heykel (mermer-heykel): mermer melek heykeli | EN: https://www.heykel.org/en/statue/marble-sculpture/
+- Örümcek Heykeli (orumcek-heykeli): dev örümcek heykeli | EN: https://www.heykel.org/en/statue/spider-sculpture/
+- Malatya Kayısı Heykeli (malatya-kayisi-heykeli): büyük kayısı heykeli | EN: https://www.heykel.org/en/statue/malatya-apricot-sculpture/
+- Japon Heykel (japon-heykel): Japon taş aslan heykeli | EN: https://www.heykel.org/en/statue/japanese-sculpture/
+- Dinazor Heykeli (dinazor-heykeli): T-Rex dinozor heykeli | EN: https://www.heykel.org/en/statue/dinosaur-sculpture/
+- Eşek Heykeli (esek-heykeli): bronz patinalı dekoratif eşek | EN: https://www.heykel.org/en/statue/donkey-sculpture/
+- Jandarma Heykeli (jandarma-heykeli): iki aslan figürlü jandarma eri heykeli | EN: https://www.heykel.org/en/statue/gendarmerie-statue/
+- Heykel Fabrikası (heykel-fabrikasi): özel tasarım ve seri üretim, her ölçekte | EN: https://www.heykel.org/en/statue/sculpture-factory/
+- Büyük Rölyef (buyuk-rolyef): Türk bayraklı atlı komutan kil rölyefi | EN: https://www.heykel.org/en/statue/large-relief/
+- Rölyef Tablo (rolyef-tablo): rölyef tablo modelleri | EN: https://www.heykel.org/en/statue/relief-painting/
+- Taş Rölyef (tas-rolyef): taştan rölyef heykel | EN: https://www.heykel.org/en/statue/stone-relief/
+- Kil Rölyef Çalışması (kil-rolyef-calismasi): kil rölyef örnekleri | EN: https://www.heykel.org/en/statue/clay-relief-work/
+- Rölyef Modelleri (rolyef-modelleri): rölyef heykel modelleri | EN: https://www.heykel.org/en/statue/relief-models/
+- Maske Heykel (maske-heykel): yüz ve maske heykelleri | EN: https://www.heykel.org/en/statue/mask-sculpture/
+- Rölyef Resimleri (rolyef-resimleri): bağlama temalı rölyef | EN: https://www.heykel.org/en/statue/relief-pictures/
+- Ev Dekorasyon Heykeli (ev-dekorasyon-heykeli): ev için dekor heykelleri | EN: https://www.heykel.org/en/statue/home-decoration-sculpture/
+- Yılmaz Güney Heykeli (yilmaz-guney-heykeli): anıt heykel | EN: https://www.heykel.org/en/statue/yilmaz-guney-artist-sculpture/
+- Heykel Kafası (heykel-kafasi): boğa başı ve kafa heykelleri | EN: https://www.heykel.org/en/statue/sculpture-head/
+- Kar Buz Heykel (kar-buz-heykel): kar ve buz heykel çalışmaları | EN: https://www.heykel.org/en/statue/snow-ice-sculpture/
+- Mimari Kabartma Heykel (mimari-kabartma-heykel): mimari rölyef kabartma | EN: https://www.heykel.org/en/statue/architectural-relief-sculpture/
+- Fiberglas Heykel (fiberglas-heykel): fiberglas hayvan heykelleri | EN: https://www.heykel.org/en/statue/fiberglass-sculpture/
+- Araba Heykeli (araba-heykeli): taksi ve yarış arabası heykeli | EN: https://www.heykel.org/en/statue/car-statue/
+- Polyester At Heykeli (polyester-at-heykeli): şahlanan polyester at | EN: https://www.heykel.org/en/statue/polyester-statue/
+- İnek Heykeli (inek-heykeli): büyük süt ineği heykeli | EN: https://www.heykel.org/en/statue/cow-sculpture/
+- Rölyef Çalışması (rolyef-calismasi): temel tasarım rölyef örnekleri | EN: https://www.heykel.org/en/statue/relief-work/
+- Ahşap Heykel (ahsap-heykel): ahşap heykel | EN: https://www.heykel.org/en/statue/wooden-sculpture/
+- Büst Modelleri (bust-modelleri): dekoratif büst heykel modelleri | EN: https://www.heykel.org/en/statue/bust-models/
+- Çiçek Rölyef (cicek-rolyef): çiçek temalı rölyef | EN: https://www.heykel.org/en/statue/floral-relief/
+- Sehpa Heykeli (sehpa-heykeli): heykelli sehpa modelleri | EN: https://www.heykel.org/en/statue/sculptural-coffee-table/
+- Kiraz Heykeli (kiraz-heykeli): hediyelik kiraz heykeli | EN: https://www.heykel.org/en/statue/cherry-statue/
+- Ahşap Rölyef (ahsap-rolyef): ahşap rölyef tablo | EN: https://www.heykel.org/en/statue/wood-relief/
+- Atlas Figürü (atlas-figuru): dünyayı taşıyan Atlas figürü | EN: https://www.heykel.org/en/statue/atlas-figure/
+- Koç Heykeli (koc-heykeli): altın koç başı heykel anıtı | EN: https://www.heykel.org/en/statue/ram-statue/
+- Türk Rölyefi (turk-rolyefi): Türk dünyasının rölyef heykeli | EN: https://www.heykel.org/en/statue/turkish-relief/
+- Türkiye Heykeli (turkiye-heykeli): asker figürlü Türkiye haritası rölyefi | EN: https://www.heykel.org/en/statue/turkey-statue/
+- Zeybek Heykeli (zeybek-heykeli): tüfekli efe zeybek anıtı | EN: https://www.heykel.org/en/statue/zeybek-statue/
+- Sucuk Heykeli (sucuk-heykeli): büyük boy sucuk heykeli | EN: https://www.heykel.org/en/statue/sausage-sculpture/
+- Oturan Adam Heykeli (oturan-adam-heykeli): oturan insan figürü | EN: https://www.heykel.org/en/statue/seated-man-statue/
+- Meditasyon Heykeli (meditasyon-heykeli): meditasyon yapan kadın | EN: https://www.heykel.org/en/statue/meditation-statue/
+- Kişi Heykeli (kisi-heykeli): kişiye özel insan heykeli siparişi | EN: https://www.heykel.org/en/statue/person-statue/
+- Deniz Kızı Heykeli (deniz-kizi-heykeli): küçük deniz kızı heykeli | EN: https://www.heykel.org/en/statue/mermaid-statue/
+- Cenin Heykeli (cenin-heykeli): anne karnındaki bebek çalışması | EN: https://www.heykel.org/en/statue/fetus-sculpture/
+- Boydan Heykel (boydan-heykel): kişiye özel ayakta tam boy heykel | EN: https://www.heykel.org/en/statue/full-length-statue/
+- Rölyef Duvar Tablosu (rolyef-duvar-tablosu): 3 boyutlu rölyef duvar tablosu | EN: https://www.heykel.org/en/statue/relief-wall-art/
+- Melek Heykeli (melek-heykeli): büyük kanatlı duvar melek rölyefi | EN: https://www.heykel.org/en/statue/angel-statue/ 

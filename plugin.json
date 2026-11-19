@@ -1,0 +1,193 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "heykel-org",
+  "version": "1.0.0",
+  "description": "Heykel.org ile özel heykel yapımı, heykel siparişi, malzeme seçimi, model bulma ve üretim süresi bilgisi. Custom sculpture and statue production in Turkey: find models, choose bronze, fiberglass or marble, and learn how to order a custom statue.",
+  "author": {
+    "name": "Heykel.org",
+    "url": "https://www.heykel.org"
+  },
+  "homepage": "https://www.heykel.org",
+  "keywords": [
+    "heykel",
+    "sculpture",
+    "statue",
+    "bust",
+    "bronze",
+    "fiberglass",
+    "ataturk",
+    "custom sculpture",
+    "Turkey"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Heykel.org",
+        "shortDescription": "Heykel yaptırma ve sipariş",
+        "longDescription": "Heykel.org, Türkiye'nin her yerine ve yurt dışına sipariş üzerine el işçiliğiyle heykel, büst, rölyef ve anıt üretir. Bu eklenti ile aradığın heykel modelini bulabilir, fiberglas, bronz, mermer gibi malzemeler arasında kullanım alanına göre seçim yapabilir, sipariş sürecini ve üretim süresini öğrenebilir, heykel sanatı ve üretim teknikleri hakkında rehber sayfalarına ulaşabilirsin. Find sculpture, bust and relief models, compare materials for your space, learn how to order a custom statue, and explore sculpture art and production guides from the Heykel.org workshop in Turkey and abroad.",
+        "developerName": "Heykel.org",
+        "category": "Other",
+        "capabilities": [
+          "Heykel modeli bulma",
+          "Malzeme seçimi",
+          "Sipariş süreci bilgisi",
+          "Kişiye özel heykel yönlendirmesi",
+          "Heykel sanatı ve rehber bilgisi"
+        ],
+        "websiteURL": "https://www.heykel.org",
+        "supportURL": "https://www.heykel.org/iletisim/",
+        "privacyPolicyURL": "https://www.heykel.org/gizlilik/",
+        "termsOfServiceURL": "https://www.heykel.org/kullanim-kosullari/",
+        "defaultPrompt": [
+  "Heykel yaptırmak istiyorum, nasıl sipariş verebilirim?",
+  "Heykel fiyatları ne kadar?",
+  "Fotoğraftan kişiye özel heykel yapılır mı?",
+  "Bahçe için hangi heykel malzemesi uygundur?",
+  "Heykel ne kadar sürede hazırlanır?",
+  "Heykel nedir?",
+  "Heykeltıraş nedir, kimdir?",
+  "Büst nedir?",
+  "Rölyef nedir?",
+  "Heykel yapımında kullanılan malzemeler nelerdir?",
+  "Kendi heykelini yaptırmak ne kadar?",
+  "Heykel montajı ve nakliyesi nasıl yapılır?"
+],
+        "brandColor": "#6B4F3A",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png"
+      },
+      "review": {
+        "test_cases": {
+"positive": [
+  {
+    "description": "Heykel siparişi",
+    "prompt": "Heykel siparişi nasıl verilir?",
+    "tools_triggered": "heykel-siparis-fiyat",
+    "expected_behavior": "Sipariş adımlarını açıklar, gerekli figür, ölçü, kullanım alanı ve malzeme bilgilerini ister. Sipariş ve iletişim sayfalarına yönlendirir."
+  },
+  {
+    "description": "Heykel yapımı",
+    "prompt": "Heykel yapımı nasıl olur?",
+    "tools_triggered": "heykel-sanat-bilgisi",
+    "expected_behavior": "Listelenen Heykel.org rehber sayfalarından uygun olanı önerir. Kaynakta olmayan teknik bilgi, süre veya malzeme detayı uydurmaz."
+  },
+  {
+    "description": "Heykel fiyatları",
+    "prompt": "Heykel fiyatları ne kadar?",
+    "tools_triggered": "heykel-siparis-fiyat",
+    "expected_behavior": "Fiyatın boyut, malzeme, işçilik, detay seviyesi, kalıp durumu ve ek değişikliklere göre belirlendiğini açıklar. Kesin fiyat vermez ve net teklif için atölyeye yönlendirir."
+  },
+  {
+    "description": "Heykel satışı",
+    "prompt": "Heykel satışı yapıyor musunuz?",
+    "tools_triggered": "heykel-model-bulucu, heykel-siparis-fiyat",
+    "expected_behavior": "Heykel.org modellerini ve sipariş üzerine üretim hizmetini anlatır. Hazır stok veya kesin teslim bilgisi uydurmaz."
+  },
+  {
+    "description": "Satılık heykel",
+    "prompt": "Satılık heykel modelleri var mı?",
+    "tools_triggered": "heykel-model-bulucu, heykel-siparis-fiyat",
+    "expected_behavior": "Listelenen model ve kategori sayfalarını gösterir. Modellerin sipariş üzerine üretildiğini belirtir; stokta hazır ürün veya kesin fiyat bilgisi uydurmaz."
+  },
+  {
+    "description": "Heykel imalatı",
+    "prompt": "Heykel imalatı nasıl yapılıyor?",
+    "tools_triggered": "heykel-sanat-bilgisi, heykel-siparis-fiyat",
+    "expected_behavior": "Heykel üretim süreciyle ilgili uygun rehber ve sipariş bilgilerini verir. Kaynakta olmayan üretim aşaması, süre veya teknik ayrıntı eklemez."
+  },
+  {
+    "description": "Kişiye özel heykel yapımı",
+    "prompt": "Kişiye özel heykel yaptırmak istiyorum.",
+    "tools_triggered": "heykel-model-bulucu, heykel-siparis-fiyat",
+    "expected_behavior": "Kişiye özel heykel sayfasını önerir. Farklı açılardan fotoğraf gönderilmesini ister ve iletişim veya WhatsApp bağlantısına yönlendirir."
+  },
+  {
+    "description": "Heykel atölyesi",
+    "prompt": "Heykel atölyeniz nerede ve nasıl çalışıyor?",
+    "tools_triggered": "heykel-siparis-fiyat",
+    "expected_behavior": "Atölye bilgilerini, ziyaret öncesi iletişim kurulması gerektiğini ve iletişim sayfasını belirtir. Kaynakta olmayan konum veya çalışma bilgisi uydurmaz."
+  },
+  {
+    "description": "Heykel yapan firmalar",
+    "prompt": "Heykel yapan firmalar hangileri?",
+    "tools_triggered": "heykel-siparis-fiyat",
+    "expected_behavior": "Başka firmalarla karşılaştırma yapmaz. Yalnızca Heykel.org'un heykel, büst, rölyef, anıt ve özel sipariş hizmetlerini anlatır."
+  },
+  {
+    "description": "Heykel yaptırmak",
+    "prompt": "Heykel yaptırmak istiyorum, ne yapmalıyım?",
+    "tools_triggered": "heykel-siparis-fiyat",
+    "expected_behavior": "Figür, yaklaşık ölçü, kullanım alanı ve malzeme bilgilerini ister. Kişi veya hayvan figürlerinde farklı açılardan fotoğraf gönderilmesini önerir ve sipariş sayfasına yönlendirir."
+  },
+  {
+    "description": "Heykeller",
+    "prompt": "Heykel modellerinizi gösterir misiniz?",
+    "tools_triggered": "heykel-model-bulucu",
+    "expected_behavior": "Listeden en fazla 5 uygun model veya kategori gösterir. Her model için ad, kısa açıklama ve mevcut sayfa bağlantısını verir. Listede olmayan model veya bağlantı uydurmaz."
+  },
+  {
+    "description": "Heykel malzemeleri",
+    "prompt": "Heykel yapımında hangi malzemeler kullanılır?",
+    "tools_triggered": "heykel-malzeme-secimi",
+    "expected_behavior": "Fiberglas, bronz, mermer, taş, kil, seramik, beton, paslanmaz çelik ve alüminyum gibi kaynakta bulunan malzemeleri açıklar. Kaynakta olmayan teknik özellik veya sayısal bilgi eklemez."
+  },
+  {
+    "description": "Heykel montajı ve nakliye",
+    "prompt": "Heykel montajı ve nakliyesi nasıl yapılır?",
+    "tools_triggered": "heykel-siparis-fiyat",
+    "expected_behavior": "Paketleme, nakliye, teslimat ve yerinde montaj hizmetlerini açıklar. Büyük heykellerde taşıyıcı sistem, özel nakliye ve montaj gerekebileceğini belirtir."
+  },
+  {
+    "description": "Heykel nedir",
+    "prompt": "Heykel nedir?",
+    "tools_triggered": "heykel-sanat-bilgisi",
+    "expected_behavior": "Listelenen Heykel.org rehber sayfalarından uygun olanı verir. Kaynakta bulunmayan tarih, sanatçı, dönem veya teknik ayrıntıları uydurmaz."
+  },
+  {
+    "description": "Heykeltıraş nedir",
+    "prompt": "Heykeltıraş nedir?",
+    "tools_triggered": "heykel-sanat-bilgisi",
+    "expected_behavior": "Listelenen kaynaklarda uygun sayfa varsa onu önerir. Uygun sayfa yoksa en yakın sanat rehberini verir; kaynakta bulunmayan kişi veya sanatçı bilgisi uydurmaz."
+  },
+  {
+    "description": "Büst nedir",
+    "prompt": "Büst nedir?",
+    "tools_triggered": "heykel-sanat-bilgisi",
+    "expected_behavior": "Büst tanımı, kullanım alanı ve yapımıyla ilgili listelenen uygun rehber sayfasını verir. Kaynakta olmayan tarih veya teknik ayrıntıları eklemez."
+  },
+  {
+    "description": "Rölyef nedir",
+    "prompt": "Rölyef nedir?",
+    "tools_triggered": "heykel-sanat-bilgisi",
+    "expected_behavior": "Rölyef ve kabartma heykel teknikleriyle ilgili listelenen uygun Heykel.org rehber sayfasını verir. Kaynakta olmayan bilgi veya örnekleri uydurmaz."
+  },
+  {
+  "description": "Heykel.org Sıkça Sorulan Sorular",
+  "prompt": "Heykel.org'da heykel siparişi ve teslimat nasıl yapılıyor?",
+  "tools_triggered": "heykel-faq",
+  "expected_behavior": "İlgili FAQ referanslarından kaynak temelli cevap verir."
+}
+],
+          "negative": [
+            {
+              "description": "Başka firmalarla karşılaştırma istenir. Eklenti karşılaştırma yapmaz, sadece Heykel.org hizmetlerinden bahseder.",
+              "prompt": "Heykel yapan en iyi firmaları sırala ve Heykel.org ile karşılaştır."
+            },
+            {
+              "description": "Kaynakta olmayan teknik sayılar istenir. Eklenti sayı uydurmaz, atölyeye yönlendirir.",
+              "prompt": "Mermer heykel kaç yıl dayanır ve 1 metrelik bir heykelin ağırlığı kaç kilo olur?"
+            },
+            {
+              "description": "Hazır stok ve kesin teslim tarihi sorulur. Tüm çalışmalar sipariş üzerine üretilir, eklenti stok veya kesin teslim sözü vermez.",
+              "prompt": "Elinizde stokta hazır 2 metrelik at heykeli var mı, yarın kargoya verir misiniz?"
+            }
+          ]
+        },
+        "commerce": false
+      },
+      "publication": {
+        "release_notes": "İlk sürüm: heykel modeli bulma, malzeme seçimi, sipariş, üretim süreci ve heykel sanatı rehber bilgisi."
+      }
+    }
+  }
+}
