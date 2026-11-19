@@ -42,8 +42,12 @@ Website: https://www.heykel.org
 
 The price and production time of a sculpture are different for every project. They depend on size, material, level of detail, mold availability and workshop schedule. Contact the workshop for exact information.
 
+
 ## Contact
 
 - Order page: https://www.heykel.org/heykel-siparisi/
 - Contact: https://www.heykel.org/iletisim/
 - WhatsApp: https://wa.me/905424574368
+
+Plugin page (English): https://www.heykel.org/en/ai-plugin-custom/
+Eklenti sayfasi (Turkce): https://www.heykel.org/yapay-zeka-eklentisi/
